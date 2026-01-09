@@ -36,7 +36,7 @@
    nav ul {
       list-style: none;
       display: flex;
-      gap: 20px;
+      gap: 30px;
      width: 100%;
     }
 
