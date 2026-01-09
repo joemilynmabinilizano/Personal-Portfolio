@@ -25,10 +25,10 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 15px 30px;
+      padding: 10px 20px;
       background: #0f0014;
       position: fixed;
-      width: 50%;
+      width: 10%;
       top: 0;
       z-index: 100;
     }
@@ -36,7 +36,7 @@
    nav ul {
       list-style: none;
       display: flex;
-      gap: 2px;
+      gap: 5px;
     }
 
     nav ul li {
