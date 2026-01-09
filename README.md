@@ -1,4 +1,3 @@
-# Joemilynlizano.-Github.-io
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -130,7 +129,6 @@
 
   <!-- NAVIGATION -->
   <nav>
-    <h1 Personal Portfolio</h1>
     <ul>
       <li onclick="showSection('home')">Home</li>
       <li onclick="showSection('about')">About</li>
