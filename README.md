@@ -23,7 +23,7 @@
     /* NAVBAR */
     nav {
       display: flex;
-      justify-content: space-between;
+      justify-content: center;
       align-items: center;
       padding: 10px 20px;
       background: #0f0014;
@@ -36,7 +36,8 @@
    nav ul {
       list-style: none;
       display: flex;
-      gap: 5px;
+      gap: 20px;
+     width: 100%;
     }
 
     nav ul li {
