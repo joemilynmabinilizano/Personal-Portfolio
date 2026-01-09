@@ -36,8 +36,7 @@
    nav ul {
       list-style: none;
       display: flex;
-      gap: 30px;
-     width: 100%;
+      gap: 25px;
     }
 
     nav ul li {
@@ -47,6 +46,7 @@
 
     nav ul li:hover {
       color: #ff7ad9;
+      font-size: 20px;
     }
 
     /* SECTIONS */
