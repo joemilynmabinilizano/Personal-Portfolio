@@ -25,10 +25,10 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      padding: 10px 20px;
+      padding: 15px 30px;
       background: #0f0014;
       position: static;
-      width: 5%;
+      width: 100%;
       top: 0;
       z-index: 100;
     }
