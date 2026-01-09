@@ -32,8 +32,8 @@
       top: 0;
       z-index: 100;
     }
-
-    nav ul {
+  
+   nav ul {
       list-style: none;
       display: flex;
       gap: 20px;
@@ -138,7 +138,7 @@
 
   <!-- NAVIGATION -->
   <nav>
-  <ul>
+    <ul>
       <li onclick="showSection('home')">Home</li>
       <li onclick="showSection('about')">About</li>
       <li onclick="showSection('skills')">Skills</li>
