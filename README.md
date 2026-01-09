@@ -33,11 +33,6 @@
       z-index: 100;
     }
 
-    nav h1 {
-      color: #ff7ad9;
-      font-size: 22px;
-    }
-
     nav ul {
       list-style: none;
       display: flex;
@@ -143,7 +138,7 @@
 
   <!-- NAVIGATION -->
   <nav>
-    <ul>
+  <ul>
       <li onclick="showSection('home')">Home</li>
       <li onclick="showSection('about')">About</li>
       <li onclick="showSection('skills')">Skills</li>
