@@ -12,7 +12,7 @@
       margin: 0;
       padding: 0;
       box-sizing: border-box;
-      font-family: 'Poppins', sans-serif;
+      font-family: 'Arial', sans-serif;
     }
 
     body {
@@ -28,7 +28,7 @@
       padding: 15px 30px;
       background: #0f0014;
       position: fixed;
-      width: 100%;
+      width: 50%;
       top: 0;
       z-index: 100;
     }
@@ -36,7 +36,7 @@
    nav ul {
       list-style: none;
       display: flex;
-      gap: 5px;
+      gap: 2px;
     }
 
     nav ul li {
