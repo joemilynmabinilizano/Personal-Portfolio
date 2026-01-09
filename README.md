@@ -36,9 +36,8 @@
    nav ul {
       list-style: none;
       display: flex;
-      gap: 30px;
-     width: 100%;
-    }
+      gap: 20px;
+     }
 
     nav ul li {
       cursor: pointer;
