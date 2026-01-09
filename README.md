@@ -1,4 +1,3 @@
-# joemilynmabinilizano.GitHub.io
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -13,7 +12,7 @@
       margin: 0;
       padding: 0;
       box-sizing: border-box;
-      font-family: 'Arial', sans-serif;
+      font-family: 'Poppins', sans-serif;
     }
 
     body {
@@ -108,14 +107,28 @@
     }
 
     /* CONTACT */
-    .contact a {
-      color: #ff6bff;
-      text-decoration: none;
+    form {
+      max-width: 400px;
+      margin-top: 20px;
+    }
+
+    input, textarea, button {
+      width: 100%;
+      margin-bottom: 10px;
+      padding: 10px;
+      border-radius: 8px;
+      border: none;
+    }
+
+    button {
+      background: #ff7ad9;
+      color: #000;
+      cursor: pointer;
       font-weight: bold;
     }
 
-    .contact a:hover {
-      color: #c77dff;
+    button:hover {
+      background: #ff4fc1;
     }
 
     footer {
@@ -142,8 +155,8 @@
   <!-- HOME -->
   <section id="home" class="home active">
     <h2>Hello, I'm Joemilyn Mabini Lizano 💜</h2>
-    <h3>Web Developer | Designer | Student </h3>
-    <img src="https://uploads.onecompiler.io/43zv5aqkm/449yu5jbh/Messenger_creation_E80B527D-7452-4829-A24B-52E35A01F277.jpeg" alt="picture">
+    <h3>Web Developer | Designer | Student</h3>
+    <img src="https://uploads.onecompiler.io/43zv5aqkm/449yu5jbh/Messenger_creation_E80B527D-7452-4829-A24B-52E35A01F277.jpeg" alt="Kuromi">
     <p>Welcome to my personal portfolio website.</p>
   </section>
 
@@ -151,7 +164,7 @@
   <section id="about">
     <h2>About Me</h2>
     <p>
-      I’m a beginner web developer who loves creating cute and creative websites. I enjoy learning new things and improving my skills.
+     I’m a beginner web developer who loves creating cute and creative websites. I enjoy learning new things and improving my skills.
     </p>
   </section>
 
@@ -183,14 +196,19 @@
   </section>
 
   <!-- CONTACT -->
-    <section id="contact" class="contact">
-    <h2>Contact</h2>
-    <p>Feel free to reach out:</p>
-    <p>Email: <a href="mailto:joemilynmabinilizano@gmail.com">joemilynmabinilizano@gmail.com</a></p>
+  <section id="contact">
+    <h2>Contact Me</h2>
+
+    <form>
+      <input type="text" placeholder="Your Name" required>
+      <input type="email" placeholder="Your Email" required>
+      <textarea rows="4" placeholder="Your Message"></textarea>
+      <button type="submit">Send Message</button>
+    </form>
   </section>
 
   <footer>
-    <p>© 2026 All Rigths Reserved 💜</p>
+    <p>© 2026 Kuromi Portfolio 💜</p>
   </footer>
 
   <!-- JAVASCRIPT -->
