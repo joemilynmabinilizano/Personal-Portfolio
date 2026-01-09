@@ -205,7 +205,7 @@
   </section>
 
   <footer>
-    <p>© 2026 Kuromi Portfolio 💜</p>
+    <p>© 2026 All Rights Reserved💜</p>
   </footer>
 
   <!-- JAVASCRIPT -->
