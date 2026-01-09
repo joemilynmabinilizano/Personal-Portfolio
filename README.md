@@ -27,7 +27,7 @@
       align-items: center;
       padding: 15px 30px;
       background: #0f0014;
-      position: static;
+      position: fixed;
       width: 100%;
       top: 0;
       z-index: 100;
