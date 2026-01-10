@@ -161,7 +161,7 @@
   <section id="about">
     <h2>About Me</h2>
     <p>
-     I’m a tudent who loves creating cute and creative websites. I enjoy learning new things and improving my skills.
+     I’m a student who loves creating cute and creative websites. I enjoy learning new things and improving my skills.
     </p>
   </section>
 
